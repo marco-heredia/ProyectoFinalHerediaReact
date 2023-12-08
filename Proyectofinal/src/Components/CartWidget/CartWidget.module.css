@@ -1,0 +1,6 @@
+.cart {
+    display: flex;
+    flex-direction: row;
+    font-size: 2rem;
+    justify-content:end;
+    }
